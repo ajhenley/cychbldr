@@ -1,0 +1,39 @@
+{
+    "reply_to": [
+        "browsesecure@protonmail.com"
+    ], 
+    "accepted_subjects": [
+        "Change of Password Required Immediately", 
+        "Direct Deposit"
+    ], 
+    "blocked_subjects": [
+        "Follow up", 
+        "Would you mind taking a look at this invoice?", 
+        "AMAZON: Your order No # 812-4623 could arrive", 
+        "Hello", 
+        "Password Check Required Immediately"
+    ], 
+    "senders": [
+        "secureshare@protonmail.com", 
+        "resetshare@gmail.com", 
+        "microsoftlegit@yahoo.com"
+    ], 
+    "links": [
+        {
+            "url": "downloadaccountpayment.org/dHdpdHRlcmFjY291bnRwb3J0YWw=", 
+            "ip": "81.189.58.38"
+        }, 
+        {
+            "url": "https://www.deviceservicedigital.co.uk/bG9naW5icm93c2VwYXltZW50", 
+            "ip": "109.56.159.160"
+        }, 
+        {
+            "url": "https://criticalinvoiceamazon.info/cG9ydGFsZGVmZW5kZXJiYW5r", 
+            "ip": "121.169.218.202"
+        }, 
+        {
+            "url": "https://businessamazonshare.co/dXNlcm5vdGljZWludm9pY2U=", 
+            "ip": "66.250.129.212"
+        }
+    ]
+}

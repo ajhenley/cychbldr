@@ -1,0 +1,13 @@
+From {{ sender }} {{ time }}
+Reply-to: {{ reply_to }}
+From: {{ sender }}
+Sent: {{ time }}
+To: {{ recipient }}
+Subject: {{ subject }}
+
+{{body}}
+
+{{link}}
+
+
+
