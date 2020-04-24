@@ -8,7 +8,24 @@
         {
             "subject":"<<Your Performance||An Observation||Just Saying>>",
             "body": "I am <<really||very||quite||somewhat||especially>> <<happy with||disappointed with||sad about||confused about||content with|| ambivalent about>> your <<performance on||contribution to||opinion of>> the <<Henderson||Michaelson||Strongfellow||Samuelson||Flaherty>> <<account||report||sale||analysis>>."
+        },
+        {
+            "subject":"<<Mega Millions||Powerball||Superbowl||World Series||Oscar>> Pool",
+            "body": "Last call to participate in the <<Mega Millions||Powerball||Superbowl||World Series||Oscar>> Pool, <<stop by my desk||swing by customer service||pop by the mail room>> by <<end of business||lunch time||lights out>> <<today||tomorrow||friday>>."
+        },
+        {
+            "subject":"<<Thanks||I appreciate||Totally cool||I owe you one>>",
+            "body": "nm"
+        },
+        {
+            "subject":"<<Sorry||Hey||About today||About tomorrow||About Later>>",
+            "body": "Can we <<reschedule||try again||brainstorm||workshop some ideas>>?"
+        },
+        {
+            "subject":"Re:<<Question||A little help||Can I get a few minutes of your time>>?",
+            "body": "<<You are welcome||You're welcome||No problem||My pleasure||Don't be silly, I was happy to help||No, thank YOU>>"
         }
+        
     ],
 
     "external" :
@@ -18,8 +35,12 @@
             "body": "<<Hey||Wassup||Hi>>, it's Pam, from <<Freemont High||Banneker SHS||Coconut Grove Elementary||West Lab||Fort Lincoln>>. You probably don't remember me, but we are planning our reunion for next summer and wanted to see if you would be attending?"
         },
         {
-            "subject":"<<Your Performance||An Observation||Just Saying>>",
-            "body": "I am <<really||very||quite||somewhat||especially>> <<happy with||disappointed with||sad about||confused about||content with|| ambivalent about>> your <<performance on||contribution to||opinion of>> the <<Henderson||Michaelson||Strongfellow||Samuelson||Flaherty>> <<account||report||sale||analysis>>."
+            "subject":"Your Enterprise <<Backup Strategy||Hardware Refresh||Technical Training||student loan debt>>",
+            "body": "I am <<really||very||quite||somewhat||especially>> <<happy||excited||proud>> to share <<an opportunity||a secret||my plan>> to help your to deal with your <<car insurance||extended warranty||life insurance||student loan debt>>."
+        },
+        {
+            "subject":"Your <<car insurance||extended warranty||life insurance||student loan debt>>",
+            "body": "I am <<really||very||quite||somewhat||especially>> <<happy||excited||proud>> to share <<an opportunity||a secret||my plan>> to help your to deal with your <<car insurance||extended warranty||life insurance||student loan debt>>."
         }
     ],
     "malware" :
